@@ -1,0 +1,4 @@
+
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(â ˜£ûÿÿÿÿ8Ù×è¹°-
+7squid:S1700"Rename field "employeeList"(ÐÒÿö8Ù×è¹°-
+psquid:UselessImportCheck"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8Ù×è¹°-
